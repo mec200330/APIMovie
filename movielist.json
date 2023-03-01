@@ -1,0 +1,301 @@
+[{
+    "id": 1,
+    "movie_title": "Capitán América: El primer vengador",
+    "genre": "Ciencia ficción, Superhéroes, Acción y avnetura",
+    "img": "",
+    "premiere": false,
+    "phase": 1,
+    "release_year": 2011,
+    "chronological_order": 1,
+    "classification": 12
+  }, {
+    "id": 2,
+    "movie_title": "Capitana Marvel",
+    "genre": "Ciencia ficción, Superhéroes, Acción y avnetura",
+    "img": "",
+    "premiere": false,
+    "phase": 3,
+    "release_year": 2019,
+    "chronological_order": 2,
+    "classification": 12
+  }, {
+    "id": 3,
+    "movie_title": "Iron Man",
+    "genre": "Ciencia ficción, Superhéroes, Acción y avnetura",
+    "img": "",
+    "premiere": false,
+    "phase": 1,
+    "release_year": 2008,
+    "chronological_order": 3,
+    "classification": 12
+  }, {
+    "id": 4,
+    "movie_title": "El increíble Hulk",
+    "genre": "Ciencia ficción, Superhéroes, Acción y avnetura",
+    "img": "",
+    "premiere": false,
+    "phase": 1,
+    "release_year": 2008,
+    "chronological_order": 4,
+    "classification": 12
+  }, {
+    "id": 5,
+    "movie_title": "Iron Man 2",
+    "genre": "Ciencia ficción, Superhéroes, Acción y avnetura",
+    "img": "",
+    "premiere": false,
+    "phase": 1,
+    "release_year": 2010,
+    "chronological_order": 5,
+    "classification": 12
+  }, {
+    "id": 6,
+    "movie_title": "Thor",
+    "genre": "Fantasía, Superhéroes, Acción y avnetura",
+    "img": "",
+    "premiere": false,
+    "phase": 1,
+    "release_year": 2011,
+    "chronological_order": 6,
+    "classification": 12
+  }, {
+    "id": 7,
+    "movie_title": "Los Vengadores",
+    "genre": "Ciencia ficción, Superhéroes, Acción y avnetura",
+    "img": "",
+    "premiere": false,
+    "phase": 1,
+    "release_year": 2012,
+    "chronological_order": 7,
+    "classification": 12
+  }, {
+    "id": 8,
+    "movie_title": "Iron Man 3",
+    "genre": "Ciencia ficción, Superhéroes, Acción y aventura",
+    "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677707519/Iron-Man-3_ihe2hl.png",
+    "premiere": false,
+    "phase": 2,
+    "release_year": 2013,
+    "chronological_order": 9,
+    "classification": 12
+  }, {
+    "id": 9,
+    "movie_title": "Thor: El mundo oscuro",
+    "genre": "Ciencia ficción, Fantasía, Superhéroes, Acción y avnetura",
+    "img": "",
+    "premiere": false,
+    "phase": 2,
+    "release_year": 2013,
+    "chronological_order": 8,
+    "classification": 12
+  }, {
+    "id": 10,
+    "movie_title": "Capitán América y El soldado de invierno",
+    "genre": "Ciencia ficción, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 2,
+    "release_year": 2014,
+    "chronological_order": 10,
+    "classification": 12
+  }, {
+    "id": 11,
+    "movie_title": "Guardianes de la Galaxia",
+    "genre": "Ciencia ficción, Comedia, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 2,
+    "release_year": 2014,
+    "chronological_order": 11,
+    "classification": 12
+  }, {
+    "id": 12,
+    "movie_title": "Guardianes de la Galaxia Vol. 2",
+    "genre": "Ciencia ficción, Comedia, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 3,
+    "release_year": 2017,
+    "chronological_order": 12,
+    "classification": 12
+  }, {
+    "id": 13,
+    "movie_title": "Vengadores: La era de Ultrón",
+    "genre": "Ciencia ficción,Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 2,
+    "release_year": 2015,
+    "chronological_order": 13,
+    "classification": 12
+  }, {
+    "id": 14,
+    "movie_title": "Ant-Man ",
+    "genre": "Ciencia ficción, Comedia, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 2,
+    "release_year": 2015,
+    "chronological_order": 14,
+    "classification": 12
+  }, {
+    "id": 15,
+    "movie_title": "Capitán América: Civil War",
+    "genre": "Ciencia ficción, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 3,
+    "release_year": 2016,
+    "chronological_order": 15,
+    "classification": 12
+  }, {
+    "id": 16,
+    "movie_title": "Viuda Negra ",
+    "genre": "Espionaje, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 4,
+    "release_year": 2021,
+    "chronological_order": 16,
+    "classification": 12
+  }, {
+    "id": 17,
+    "movie_title": "Black Panther",
+    "genre": "Ciencia ficción, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 3,
+    "release_year": 2018,
+    "chronological_order": 17,
+    "classification": 12
+  }, {
+    "id": 18,
+    "movie_title": "Doctor Strange ",
+    "genre": "Fantasía, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 3,
+    "release_year": 2016,
+    "chronological_order": 19,
+    "classification": 12
+  }, {
+    "id": 19,
+    "movie_title": "Spider-Man: Homecoming",
+    "genre": "La aventura de crecer, Ciencia ficción, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 3,
+    "release_year": 2017,
+    "chronological_order": 18,
+    "classification": 12
+  }, {
+    "id": 20,
+    "movie_title": "Ant-Man y la Avispa",
+    "genre": "Ciencia ficción, Comedia, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 3,
+    "release_year": 2018,
+    "chronological_order": 21,
+    "classification": 12
+  }, {
+    "id": 21,
+    "movie_title": "Thor: Ragnarok",
+    "genre": "Ciencia ficción, Comedia, Fantasía, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 3,
+    "release_year": 2017,
+    "chronological_order": 20,
+    "classification": 12
+  }, {
+    "id": 22,
+    "movie_title": "Vengadores: Infinity War",
+    "genre": "Ciencia ficción, Fantasía, Superhéroes, Acción y avnetura",
+    "img": "",
+    "premiere": false,
+    "phase": 3,
+    "release_year": 2018,
+    "chronological_order": 22,
+    "classification": 12
+  }, {
+    "id": 23,
+    "movie_title": "Vengadores: Endgame",
+    "genre": "Ciencia ficción, Fantasía, Superhéroes, Acción y avnetura",
+    "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677707511/Aendgame_w6hyjd.jpg",
+    "premiere": false,
+    "phase": 3,
+    "release_year": 2019,
+    "chronological_order": 23,
+    "classification": 12
+  }, {
+    "id": 24,
+    "movie_title": "Spider-Man: Far from Home",
+    "genre": "La aventura de crecer, Ciencia ficción, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 3,
+    "release_year": 2019,
+    "chronological_order": 24,
+    "classification": 12
+  }, {
+    "id": 25,
+    "movie_title": "Spider-Man: No Way Home",
+    "genre": "La aventura de crecer, Ciencia ficción, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 4,
+    "release_year": 2021,
+    "chronological_order": 25,
+    "classification": 12
+  }, {
+    "id": 26,
+    "movie_title": "Shang-Chi y la Leyenda de los Diez Anillos",
+    "genre": "Fantasía, Superhéroes, Acción y avnetura",
+    "img": "",
+    "premiere": false,
+    "phase": 4,
+    "release_year": 2021,
+    "chronological_order": 26,
+    "classification": 26
+  }, {
+    "id": 27,
+    "movie_title": "Doctor Strange En el multiverso de la locura",
+    "genre": "Ciencia ficción, Fantasía, Superhéroes, Acción y avnetura",
+    "img": "",
+    "premiere": false,
+    "phase": 4,
+    "release_year": 2022,
+    "chronological_order": 27,
+    "classification": 12
+  }, {
+    "id": 28,
+    "movie_title": "Thor: Love and Thunder ",
+    "genre": "Romance, Ciencia ficción, Comedia, Fantasía, Superhéroes, Acción y aventura",
+    "img": "",
+    "premiere": false,
+    "phase": 4,
+    "release_year": 2022,
+    "chronological_order": 29,
+    "classification": 12
+  }, {
+    "id": 29,
+    "movie_title": "Black Panther: Wakanda Forever",
+    "genre": "Ciencia ficción, Superhéroes, Acción y aventura",
+    "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677707464/black-panther-wakanda-forever_batavq.png",
+    "premiere": true,
+    "phase": 4,
+    "release_year": 2022,
+    "chronological_order": 28,
+    "classification": 12
+  }, {
+    "id": 30,
+    "movie_title": "Ant-Man y la Avispa: Quantumania",
+    "genre": "Ciencia ficción, Comedia, Fantasía, Superhéroes, Acción y aventura",
+    "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677707505/ANTMAN3_uq9aty.jpg",
+    "premiere": true,
+    "phase": 4,
+    "release_year": 2023,
+    "chronological_order": 30,
+    "classification": 12
+  }]
