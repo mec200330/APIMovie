@@ -7,7 +7,8 @@
     "phase": 1,
     "release_year": 2011,
     "chronological_order": 1,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 30
   }, {
     "id": 2,
     "movie_title": "Capitana Marvel",
@@ -17,7 +18,8 @@
     "phase": 3,
     "release_year": 2019,
     "chronological_order": 2,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 40
   }, {
     "id": 3,
     "movie_title": "Iron Man",
@@ -27,7 +29,8 @@
     "phase": 1,
     "release_year": 2008,
     "chronological_order": 3,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 20
   }, {
     "id": 4,
     "movie_title": "El increíble Hulk",
@@ -37,7 +40,8 @@
     "phase": 1,
     "release_year": 2008,
     "chronological_order": 4,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 25
   }, {
     "id": 5,
     "movie_title": "Iron Man 2",
@@ -47,7 +51,8 @@
     "phase": 1,
     "release_year": 2010,
     "chronological_order": 5,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 35
   }, {
     "id": 6,
     "movie_title": "Thor",
@@ -57,7 +62,8 @@
     "phase": 1,
     "release_year": 2011,
     "chronological_order": 6,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 45
   }, {
     "id": 7,
     "movie_title": "Los Vengadores",
@@ -67,7 +73,8 @@
     "phase": 1,
     "release_year": 2012,
     "chronological_order": 7,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 50
   }, {
     "id": 8,
     "movie_title": "Iron Man 3",
@@ -77,7 +84,8 @@
     "phase": 2,
     "release_year": 2013,
     "chronological_order": 9,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 60
   }, {
     "id": 9,
     "movie_title": "Thor: El mundo oscuro",
@@ -87,7 +95,8 @@
     "phase": 2,
     "release_year": 2013,
     "chronological_order": 8,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 70
   }, {
     "id": 10,
     "movie_title": "Capitán América y El soldado de invierno",
@@ -97,7 +106,8 @@
     "phase": 2,
     "release_year": 2014,
     "chronological_order": 10,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 80
   }, {
     "id": 11,
     "movie_title": "Guardianes de la Galaxia",
@@ -107,7 +117,8 @@
     "phase": 2,
     "release_year": 2014,
     "chronological_order": 11,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 90
   }, {
     "id": 12,
     "movie_title": "Guardianes de la Galaxia Vol. 2",
@@ -117,7 +128,8 @@
     "phase": 3,
     "release_year": 2017,
     "chronological_order": 12,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 100
   }, {
     "id": 13,
     "movie_title": "Vengadores: La era de Ultrón",
@@ -127,7 +139,8 @@
     "phase": 2,
     "release_year": 2015,
     "chronological_order": 13,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 90
   }, {
     "id": 14,
     "movie_title": "Ant-Man ",
@@ -137,7 +150,8 @@
     "phase": 2,
     "release_year": 2015,
     "chronological_order": 14,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 85
   }, {
     "id": 15,
     "movie_title": "Capitán América: Civil War",
@@ -147,7 +161,8 @@
     "phase": 3,
     "release_year": 2016,
     "chronological_order": 15,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 75
   }, {
     "id": 16,
     "movie_title": "Viuda Negra ",
@@ -157,7 +172,8 @@
     "phase": 4,
     "release_year": 2021,
     "chronological_order": 16,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 65
   }, {
     "id": 17,
     "movie_title": "Black Panther",
@@ -167,7 +183,8 @@
     "phase": 3,
     "release_year": 2018,
     "chronological_order": 17,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 55
   }, {
     "id": 18,
     "movie_title": "Doctor Strange ",
@@ -177,7 +194,8 @@
     "phase": 3,
     "release_year": 2016,
     "chronological_order": 19,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 45
   }, {
     "id": 19,
     "movie_title": "Spider-Man: Homecoming",
@@ -187,7 +205,8 @@
     "phase": 3,
     "release_year": 2017,
     "chronological_order": 18,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 30
   }, {
     "id": 20,
     "movie_title": "Ant-Man y la Avispa",
@@ -197,7 +216,8 @@
     "phase": 3,
     "release_year": 2018,
     "chronological_order": 21,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 40
   }, {
     "id": 21,
     "movie_title": "Thor: Ragnarok",
@@ -207,7 +227,8 @@
     "phase": 3,
     "release_year": 2017,
     "chronological_order": 20,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 90
   }, {
     "id": 22,
     "movie_title": "Vengadores: Infinity War",
@@ -217,7 +238,8 @@
     "phase": 3,
     "release_year": 2018,
     "chronological_order": 22,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 80
   }, {
     "id": 23,
     "movie_title": "Vengadores: Endgame",
@@ -227,7 +249,8 @@
     "phase": 3,
     "release_year": 2019,
     "chronological_order": 23,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 50
   }, {
     "id": 24,
     "movie_title": "Spider-Man: Far from Home",
@@ -237,7 +260,8 @@
     "phase": 3,
     "release_year": 2019,
     "chronological_order": 24,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 30
   }, {
     "id": 25,
     "movie_title": "Spider-Man: No Way Home",
@@ -247,7 +271,8 @@
     "phase": 4,
     "release_year": 2021,
     "chronological_order": 25,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 20
   }, {
     "id": 26,
     "movie_title": "Shang-Chi y la Leyenda de los Diez Anillos",
@@ -257,7 +282,8 @@
     "phase": 4,
     "release_year": 2021,
     "chronological_order": 26,
-    "classification": 26
+    "classification": 26,
+    "selectedSeats": 30
   }, {
     "id": 27,
     "movie_title": "Doctor Strange En el multiverso de la locura",
@@ -267,7 +293,8 @@
     "phase": 4,
     "release_year": 2022,
     "chronological_order": 27,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 60
   }, {
     "id": 28,
     "movie_title": "Thor: Love and Thunder ",
@@ -277,7 +304,8 @@
     "phase": 4,
     "release_year": 2022,
     "chronological_order": 29,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 70
   }, {
     "id": 29,
     "movie_title": "Black Panther: Wakanda Forever",
@@ -287,7 +315,8 @@
     "phase": 4,
     "release_year": 2022,
     "chronological_order": 28,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 100
   }, {
     "id": 30,
     "movie_title": "Ant-Man y la Avispa: Quantumania",
@@ -297,5 +326,6 @@
     "phase": 4,
     "release_year": 2023,
     "chronological_order": 30,
-    "classification": 12
+    "classification": 12,
+    "selectedSeats": 100
   }]
